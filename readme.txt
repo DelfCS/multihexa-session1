@@ -1,1 +1,4 @@
-Pour ces deux projets, j'ai inclue le code complet dans un fichier .cs ainsi que les demandes des professeurs dans des documents words séparés.
+Ces deux projets, sont des applications console simples sans interfaces.
+
+J'ai inclue les demandes du professeur dans des fichiers word, ainsi que le code complet pour chaqun des projets dans un fichier .cs.
+
